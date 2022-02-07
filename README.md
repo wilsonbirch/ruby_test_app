@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This test app will be used to work with Ruby on Rails for the first time in section 3 of the Complete Ruby on Rails Developer course on Udemy. This app will accomplish the following:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Display 'Hello World!' in browser
+2. Formalize using Rails convention
+3. Review MVC diagram for information flow
